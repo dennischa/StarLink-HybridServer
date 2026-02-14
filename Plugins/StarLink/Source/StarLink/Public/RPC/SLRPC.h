@@ -1,0 +1,17 @@
+﻿#pragma once
+
+#define SLRPC_CREATE_HOST TEXT("CreateHost")
+#define SLRPC_CONNECT_PEER TEXT("ConnectPeer")
+#define SLRPC_ASSIGN TEXT("Assign")
+#define SLRPC_RETURN TEXT("Return")
+
+#define SLRPC_PARAM_SESSION_ID TEXT("SessionId")
+#define SLRPC_PARAM_ACTOR_GUID TEXT("ActorGUID")
+#define SLRPC_PARAM_HOST TEXT("Host")
+#define SLRPC_PARAM_Port TEXT("Port")
+
+
+#define SLRPC_ERROR_CODE_INVALID_PARAM		10001
+
+#define SLRPC_ERROR_CODE_FAILED_FIND_HOST	10301
+#define SLRPC_ERROR_CODE_FAILED_FIND_ACTOR	10302

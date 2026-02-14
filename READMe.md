@@ -1,4 +1,4 @@
-# MythicDungeon
+# StarLink-HybridServer
 
 Unreal Engine 5 기반 멀티플레이어 PvE 게임 프로젝트.
 커스텀 네트워킹 플러그인 **StarLink**를 통해 데디케이티드 서버와 P2P를 결합한 하이브리드 서버 구조를 구현한다.
